@@ -102,3 +102,10 @@ If you need another version, you can easily build a Docker image yourself, here'
 1. Clone this repo
 2. Find the URL to a URL to your desired version. List of versions can be found here: https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/
 3. Build the image using e.g. `docker build --build-arg XAMPP_URL="https://www.apachefriends.org/xampp-files/5.6.40/xampp-linux-x64-5.6.40-1-installer.run?from_af=true" .`
+
+
+## my testing
+
+ทดสอบติดตั้งบน Azure
+
+![image](https://user-images.githubusercontent.com/56244402/117132158-9c2c1380-adcc-11eb-8ee6-929642231421.png)
